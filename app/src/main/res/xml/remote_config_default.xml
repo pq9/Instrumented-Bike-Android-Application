@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<defaultsMap>
+
+    <entry>
+
+        <key>config</key>
+
+        <value>console</value>
+
+    </entry>
+
+</defaultsMap>
+
+    <!-- END xml_defaults -->

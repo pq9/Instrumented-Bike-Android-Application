@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InstrumentedBike.iml" filepath="$PROJECT_DIR$/InstrumentedBike.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libsocket/libsocket.iml" filepath="$PROJECT_DIR$/libsocket/libsocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinnerlib/spinnerlib.iml" filepath="$PROJECT_DIR$/spinnerlib/spinnerlib.iml" />
+    </modules>
+  </component>
+</project>
